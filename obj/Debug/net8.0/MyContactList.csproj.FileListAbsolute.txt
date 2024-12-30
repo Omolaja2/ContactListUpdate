@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\MyContactList\bin\Debug\net8.0\MyContactList.exe
+C:\Users\USER\Desktop\MyContactList\bin\Debug\net8.0\MyContactList.deps.json
+C:\Users\USER\Desktop\MyContactList\bin\Debug\net8.0\MyContactList.runtimeconfig.json
+C:\Users\USER\Desktop\MyContactList\bin\Debug\net8.0\MyContactList.dll
+C:\Users\USER\Desktop\MyContactList\bin\Debug\net8.0\MyContactList.pdb
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\MyContactList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\MyContactList.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\MyContactList.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\MyContactList.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\MyContactList.sourcelink.json
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\MyContactList.dll
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\refint\MyContactList.dll
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\MyContactList.pdb
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\MyContactList.genruntimeconfig.cache
+C:\Users\USER\Desktop\MyContactList\obj\Debug\net8.0\ref\MyContactList.dll
